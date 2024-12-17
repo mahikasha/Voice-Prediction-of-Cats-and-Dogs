@@ -2,6 +2,9 @@
 
 This project explores the application of advanced deep learning techniques to accurately classify and recognize vocalizations of cats and dogs. The primary objective is to distinguish between the unique vocal sounds of cats, such as meows, and those of dogs, such as barks, utilizing a dataset containing a diverse range of vocalizations from both species. The project employs cutting-edge audio processing and neural network methodologies to achieve this goal.
 
+### Dataset: ###
+Audio files of cats and dogs in .wav fromat.
+
 ### Key Steps in the Project:
 
 1. **Audio Data Collection and Preparation**:
